@@ -164,16 +164,27 @@
               "icon": "lucide-list",
               "title": "Outline of Кафедра психологии и педагогики"
             }
+          },
+          {
+            "id": "cde050f71286c57c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e02b99ffcdca0158",
+  "active": "c21e6fbff745bc87",
   "lastOpenFiles": [
     "Untitled.md",
     "Кафедра психологии и педагогики.md",
